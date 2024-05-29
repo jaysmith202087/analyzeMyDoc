@@ -1,0 +1,9 @@
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    width: 100dvw;
+    height: 10dvh;
+    background-color: #bae6fd;
+    box-shadow: 0 -2px 4px  #9ca3af;
+    padding: 12px;
+}
